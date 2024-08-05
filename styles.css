@@ -1,11 +1,11 @@
 /*  your css code here. If applicable */
-nav{
+.nav-bar{
 	background-color: #D3D3D3;
 	padding: 10px;
 	display: inline;
 }
 
-nav p{
+.nav-bar p{
 	display: inline;
 	margin-right: 1rem;
 	list-style: none;
